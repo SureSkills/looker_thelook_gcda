@@ -1,2 +1,2 @@
 # qwiklabs_looker
-Future Workforce Data Analaysy Looker labs Enterprise
+Future Workforce Data Analysis Looker labs Enterprise
