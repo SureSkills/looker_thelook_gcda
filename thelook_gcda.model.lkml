@@ -10,7 +10,7 @@ include: "/views/*.view"
 
 #persist_with: training_ecommerce_default_datagroup
 
-label: "E-Commerce Training"
+label: "TheLook-GCDA"
 
 explore: order_items {
   join: users {

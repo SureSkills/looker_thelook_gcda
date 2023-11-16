@@ -1,4 +1,4 @@
-project_name: "training_ecommerce"
+project_name: "thelook_gcda"
 
 constant: CONNECTION_NAME {
   value: "bigquery_public_data_looker"
